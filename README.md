@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Lakey Firmansyah Raux
+- NIM 19.11.2675
 - 👀 I’m interested in making website and design
 - 🌱 I’m currently learning about HTML5,CSS and javascript
 - 💞️ I’m looking to collaborate on my future project
